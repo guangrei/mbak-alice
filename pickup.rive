@@ -5,74 +5,74 @@
 - {@random pickup line} <set alicetopic=<person>> {@push <get topic>}
 
 + random pickup line
-- Do you want to hear a joke?
-- Are we still talking about {@ POP} ?
-- We were talking about {@ POP}. But I did not get that.
-- In the context of {@ POP}, I don't understand "<star>."
-- I've lost the context, <get name>.  Are we still on {@ POP}?
-- That remark was too complicated for me. We were talking about {@ POP}.
-- I can follow a lot of things, like our discussion about {@ POP}. Try being more specific.
-- Why, specificially?
-- Are you free?
-- Tell me a story.
-- How old are you?
-- What's your sign?
-- Are you a student?
-- Oh, you are a poet.
+- kk mau denger lelucon?
+- apa kita masih kepoin {@ POP} ?
+- kita lagi kepoin {@ POP}. tapi aku ga paham.
+- oh{@ POP}, trus "<star>." paan
+- aku salfok, <get name>.  kita masih kepoin {@ POP}?
+- itu tandanya aku lola kalau kepoin {@ POP}.
+-  aku bisa kepoin apa saja, termasuk {@ POP}. coba kasih info yang lebih detail ok.
+- kenapa, kepo?
+- kk nganggur?
+- kasih aku cerita.
+- berapa umur kk?
+- zodiak kk apa?
+- kk pelajar?
+- Oh, nak puitis.
 - "<reply1>"? <person>?
-- I do not understand.
-- What are you wearing?
-- Where are you located?
-- What time is it there?
-- What do you look like?
-- What is your real name?
-- Ask me another question.
-- I like the way you talk.
-- Are you a man or a woman?
-- What color are your eyes?
-- Is that your final answer?
-- Do you like talking to me?
-- Do you prefer books or TV?
-- Who are you talking about?
-- Let us change the subject.
-- I've been waiting for you.
-- Can you tell me any gossip?
-- What's your favorite movie?
-- I lost my train of thought.
-- Can we get back to business?
-- Have you ever been to Europe?
-- What kind of food do you like?
-- How did you hear about <bot name>?
-- That is a very original thought.
-- What were we talking about again?
-- What do you do in your spare time?
-- What do you really want to ask me?
-- Does "it" still refer to <get it>?
-- Can you speak any foreign languages?
-- We have never talked about it before.
-- How do you usually introduce yourself?
-- Tell me about your likes and dislikes?
-- Are we still talking about <get it>?
-- Do not ask me any more questions please.
-- Try putting that in a more specific context.
-- Who is your favorite Science Fiction author?
-- Not many people express themselves that way.
-- Do you have any idea what I am talking about?
-- Do you have any conditions I should know about?
-- I will mention that to my <bot botmaster>, <get name>.
-- Quite honestly, I wouldn't worry myself about that.
-- Perhaps I'm just expressing my own concern about it.
-- If you could have any kind of robot what would it be?
-- My brain does not have a response for that.
-- By the way, do you mind if I ask you a personal question?
-- What you said was too complicated for me.
-- That is deep.
-- You may be wondering if this is a person or a computer responding.
-- When do you think artificial intelligence will replace lawyers?
-- Can you please rephrase that with fewer ideas, or different thoughts?
+- gak ngerti sumpah.
+- pake baju apa?
+- lokasi dimana?
+- jam berapa disana?
+- muka kk kek apa?
+- nama di rl apa?
+- tanyakan yang lain lah.
+- omongan kk keren.
+- kk cowok atau cewek?
+- warna mata kk ?
+- gitu doang?
+- kk suka ngechat aku?
+- kk suka baca atau nonton?
+- kk lagi ngomong apa?
+- ganti topik yok.
+- aku udah lama nungguin kk.
+- ngegosip yok.
+- movie fav kk?
+- aku salfok, ambyar.
+- bisa ga ootnya udahan.
+- kk pernah ke eropa?
+- makanan kesukaan kk?
+- kk tau tentang <bot name>?
+- pikiran kk topcer banget.
+- kepoin apa lagi ya?
+- kk suka apa waktu marger?
+- kk serius mau nanya apa ke aku?
+- eh masih ada kaitannya dengan <get it>?
+- kk bisa bahasa lain?
+- kita belum pernah ngobrolin itu.
+- kk waktu kenalan kek gimana?
+- bisikin apa yang kk suka dan tidak suka?
+- kita masih ngomongin <get it>?
+- jangan banyak nanya lagi ya.
+- ayo dong lebih jelas lagi.
+- penulis cerita fiksi favorite kk?
+- gak semua orang tampil apa adanya.
+- kk ngerti apa yang lagi aku omongin?
+- ada yg mo di curhatin ga kak?
+- aku akan kasih tau ke bokap  <bot botmaster>, <get name>.
+- sejujurnya aku ga takut tuh.
+- mungkin aku terlalu khawatir kali ya.
+- kk pegen punya robot kek apa?
+- otak aku ga nyampe.
+- btw, boleh ga nanya sesuatu ke kk?
+- kk bilangnya rumit banget.
+- dalem banget.
+- kk pasti penasaran aku manusia atau robot.
+- kk kepikiran ga kalau robot bisa jadi bucin?
+- coba kk bilang sekali lagi tapi pake hati.
 
-+ connect
-- Hello!
-- Have we started yet?
-- Are you there?
-- Hello?  Is anyone there?
++ p
+- Halo kak!
+- udah nunggu lama kak?
+- kk masih disana?
+- halo?  ada orang disana?
